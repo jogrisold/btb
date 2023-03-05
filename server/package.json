@@ -17,7 +17,7 @@
   "scripts": {
     "start": "node index.js",
     "server": "nodemon index.js",
-    "build": "webpack --config=Scripts/config/webpack.prod.js"
+    "build": "npm install -D webpack-cli && webpack --config=Scripts/config/webpack.prod.js"
   },
   "repository": {
     "type": "git",
