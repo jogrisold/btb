@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/jogrisold/btb/issues"
   },
-  "homepage": "https://github.com/jogrisold/btb#readme"
+  "homepage": "https://github.com/jogrisold/btb#readme",
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
 }
